@@ -2,4 +2,4 @@
 
 Выглядит вот так
 
-![???][validator]
+![???](validator.gif)
