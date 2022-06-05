@@ -1,1 +1,2 @@
-![???][androidvalidation/validator?raw=true "Validator app"]
+# Validator app
+![](androidvalidation/validator.gif)
