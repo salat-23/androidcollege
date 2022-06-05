@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidValidation</string>
+    <string name="input_email_hint">Почта</string>
+    <string name="registration">Валидация пароля и логина</string>
+    <string name="input_password_hint">Пароль</string>
+    <string name="register">Проверить</string>
+    <string name="confirm_password_hint">Повторите пароль</string>
+</resources>
