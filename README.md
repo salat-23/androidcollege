@@ -18,3 +18,6 @@
 
 # Wearos app
 ![](wearos/wearos.gif)
+
+# Animation app
+![](animation/animation.gif)
