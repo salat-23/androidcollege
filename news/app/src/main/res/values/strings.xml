@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string-array name="roles">
+        <item>Reader</item>
+        <item>Moderator</item>
+    </string-array>
+</resources>

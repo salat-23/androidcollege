@@ -12,3 +12,6 @@
 
 # Sqllite app
 ![](sqllite/sqllite.gif)
+
+# News app
+![](news/news.gif)
