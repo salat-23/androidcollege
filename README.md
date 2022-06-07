@@ -15,3 +15,6 @@
 
 # News app
 ![](news/news.gif)
+
+# Wearos app
+![](wearos/wearos.gif)
